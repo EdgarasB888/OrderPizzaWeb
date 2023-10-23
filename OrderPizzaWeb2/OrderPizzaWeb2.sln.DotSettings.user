@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=823cb4b3_002D38b6_002D44ef_002D9d5a_002D66c8364d566e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Controllers.ToppingsControllerTests.ToppingsController_GetMany_ReturnIEnumerableToppingDto&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Controllers.ToppingsControllerTests.ToppingsController_Get_ReturnActionResultToppingDto&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Controllers.ToppingsControllerTests.ToppingsController_Remove_ReturnsNoContent&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.ToppingsRepositoryTests.ToppingsRepository_Get_ReturnsTopping&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.ToppingsRepositoryTests.ToppingsRepository_Get_ReturnsIReadOnlyListTaskTopping&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.ToppingsRepositoryTests.ToppingsRepository_Get_ReturnsTaskTopping&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.ToppingsRepositoryTests.ToppingsRepository_DeleteAsync_DeletesTopping&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.PizzaOrdersRepositoryTests.PizzaOrdersRepository_Get_ReturnsTaskTopping&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.PizzaOrdersRepositoryTests.ToppingsRepository_Get_ReturnsIReadOnlyListTaskPizzaOrder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.PizzaOrdersRepositoryTests.PizzaOrdersRepository_DeleteAsync_DeletesPizzaOrder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Repositories.PizzaOrdersRepositoryTests.PizzaOrdersRepository_CreateAsync_CreatesPizzaOrder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::2A3679D2-5ABA-49E9-B190-7EF857320FED::net7.0::UniTests.Controllers.PizzaOrdersControllerTests.PizzaOrdersController_GetManyAsync_ReturnIEnumerablePizzaOrdersDto&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
